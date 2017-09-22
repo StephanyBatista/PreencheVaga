@@ -1,0 +1,15 @@
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\PreencheVaga.DominioTest.deps.json
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\PreencheVaga.DominioTest.runtimeconfig.json
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\PreencheVaga.DominioTest.runtimeconfig.dev.json
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\PreencheVaga.DominioTest.dll
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\PreencheVaga.DominioTest.pdb
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\obj\Debug\netcoreapp2.0\PreencheVaga.DominioTest.csproj.CoreCompileInputs.cache
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\obj\Debug\netcoreapp2.0\PreencheVaga.DominioTest.AssemblyInfoInputs.cache
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\obj\Debug\netcoreapp2.0\PreencheVaga.DominioTest.AssemblyInfo.cs
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\obj\Debug\netcoreapp2.0\PreencheVaga.DominioTest.dll
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\obj\Debug\netcoreapp2.0\PreencheVaga.DominioTest.pdb
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\PreencheVaga.Dominio.dll
+C:\source\PreencheVaga\test\PreencheVaga.DominioTest\bin\Debug\netcoreapp2.0\PreencheVaga.Dominio.pdb
