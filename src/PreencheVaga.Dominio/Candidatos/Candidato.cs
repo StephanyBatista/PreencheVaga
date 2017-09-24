@@ -10,7 +10,7 @@ namespace PreencheVaga.Dominio.Candidatos
         public string Nome { get; private set; }
         public int Idade { get; private set; }
         public decimal PretensaoSalarial { get; private set; }
-        public List<Tecnologia> TecnologiasQueConhece { get; private set; }
+        public virtual ICollection<Tecnologia> TecnologiasQueConhece { get; private set; }
         
         public Candidato() {}        
         

@@ -8,20 +8,25 @@ namespace PreencheVaga.Dominio.BuscaCandidatos
     public class ProcessadorDeCandidatosParaVaga
     {
         private readonly IRepositorioBase<Candidato> _candidatoRepositorio;
+        private readonly IValidadorDeProcessoDeCandidatosParaVaga _validadorDeProcessoDeCandidatosParaVaga;
 
-        public ProcessadorDeCandidatosParaVaga(IRepositorioBase<Candidato> candidatoRepositorio)
+        public ProcessadorDeCandidatosParaVaga(IRepositorioBase<Candidato> candidatoRepositorio, 
+            IValidadorDeProcessoDeCandidatosParaVaga validadorDeProcessoDeCandidatosParaVaga)
         {
             _candidatoRepositorio = candidatoRepositorio;
+            _validadorDeProcessoDeCandidatosParaVaga = validadorDeProcessoDeCandidatosParaVaga;
         }
 
-        public List<CandidatoProcessado> Processar(FiltroDeCandidatoParaVagaDto dto)
+        public List<CandidatoProcessado> Processar(FiltroDeCandidatoParaVagaDto model)
         {
+            _validadorDeProcessoDeCandidatosParaVaga.Validar(model);
+            
             var candidatos = _candidatoRepositorio.ObterTodos();
             var candidatosProcessados = new List<CandidatoProcessado>();
-
+            
             foreach (var candidato in candidatos)
             {
-                var pontuacao = dto.PesosDasTecnologias
+                var pontuacao = model.PesosDasTecnologias
                     .Where(pesosDasTecnologia => candidato.TecnologiasQueConhece.Any(tecnologia => tecnologia.Id == pesosDasTecnologia.TecnologiaId))
                     .Sum(pesosDasTecnologia => pesosDasTecnologia.Peso);
 

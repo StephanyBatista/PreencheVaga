@@ -14,7 +14,7 @@ namespace PreencheVaga.DominioTest.Candidatos
         private string _nomeEsperado;
         private int _idadeEsperada;
         private decimal _pretensaoSalarialEsperada;
-        private Tecnologia[] _tecnologiasQueConheceEsperada;
+        private List<Tecnologia> _tecnologiasQueConheceEsperada;
 
         [TestInitialize]
         public void SetUp()
@@ -22,7 +22,7 @@ namespace PreencheVaga.DominioTest.Candidatos
             _nomeEsperado = "Katia";
             _idadeEsperada = 30;
             _pretensaoSalarialEsperada = 1600m;
-            _tecnologiasQueConheceEsperada = new[] { new Tecnologia("NodeJs"), new Tecnologia("Java"), new Tecnologia(".Net") };
+            _tecnologiasQueConheceEsperada = new List<Tecnologia> { new Tecnologia("NodeJs"), new Tecnologia("Java"), new Tecnologia(".Net") };
         }
         
         [TestMethod]
@@ -33,7 +33,7 @@ namespace PreencheVaga.DominioTest.Candidatos
             Assert.AreEqual(_nomeEsperado, candidato.Nome);
             Assert.AreEqual(_idadeEsperada, candidato.Idade);
             Assert.AreEqual(_pretensaoSalarialEsperada, candidato.PretensaoSalarial);
-            CollectionAssert.AreEquivalent(_tecnologiasQueConheceEsperada, candidato.TecnologiasQueConhece);
+            CollectionAssert.AreEquivalent(_tecnologiasQueConheceEsperada, candidato.TecnologiasQueConhece.ToList());
         }
 
         [TestMethod]

@@ -31,6 +31,13 @@ app.config([
         .when("/candidato/cadastro/:id", {
             templateUrl : "/app/candidato/cadastro.html"
         })
+
+        .when("/preenchervaga", {
+            templateUrl : "/app/preencherVaga/vagas.html"
+        })
+        .when("/preenchervaga/processar/:id", {
+            templateUrl : "/app/preencherVaga/processarCandidatos.html"
+        })    
             
         .otherwise({
             redirectTo: '/'

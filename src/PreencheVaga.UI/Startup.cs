@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using PreencheVaga.Dado.Context;
 using PreencheVaga.Dado.Repositorio;
+using PreencheVaga.Dominio.BuscaCandidatos;
 using PreencheVaga.Dominio.Candidatos;
 using PreencheVaga.Dominio.Tecnologias;
 using PreencheVaga.Dominio.Vagas;
@@ -25,7 +26,7 @@ namespace PreencheVaga.UI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ApplicationDbContext>(opt => opt.UseInMemoryDatabase());
+            services.AddDbContext<ApplicationDbContext>(opt => opt.UseInMemoryDatabase("database"));
             
             services
                 .AddMvc(config => {
@@ -37,10 +38,13 @@ namespace PreencheVaga.UI
                 });
 
             services.AddScoped(typeof(IRepositorioBase<>), typeof(RepositorioBase<>));
+            services.AddScoped(typeof(IRepositorioBase<Candidato>), typeof(CandidatoRepositorio));
             services.AddScoped<UnitOfWork>();
             services.AddScoped<ArmazenadorDeTecnologia>();
             services.AddScoped<ArmazenadorDeVaga>();
             services.AddScoped<ArmazenadorDeCandidato>();
+            services.AddScoped<ProcessadorDeCandidatosParaVaga>();
+            services.AddScoped(typeof(IValidadorDeProcessoDeCandidatosParaVaga), typeof(ValidadorDeProcessoDeCandidatosParaVaga));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

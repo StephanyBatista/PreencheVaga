@@ -4,10 +4,10 @@
 /home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.UI.dll
 /home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dado.dll
 /home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dominio.dll
-/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dado.pdb
 /home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.csproj.CoreCompileInputs.cache
 /home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.AssemblyInfoInputs.cache
 /home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.AssemblyInfo.cs
 /home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.dll
 /home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.pdb
-/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/Debug/netcoreapp2.0/PreencheVaga.UI.pdb
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dado.pdb
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.UI.pdb

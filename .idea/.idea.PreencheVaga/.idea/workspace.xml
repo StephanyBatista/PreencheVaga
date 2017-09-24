@@ -2,46 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5820f5ab-194c-45bd-841a-decf08df007a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/ExcecaoDeDominio.cs" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/_Base/ExcecaoDeDominio.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/Debug/netstandard2.0/PreencheVaga.Dominio.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/Debug/netstandard2.0/PreencheVaga.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/Debug/netstandard2.0/PreencheVaga.Dominio.pdb" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/Debug/netstandard2.0/PreencheVaga.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/Debug/netstandard2.0/PreencheVaga.Dominio.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/Debug/netstandard2.0/PreencheVaga.Dominio.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/Debug/netstandard2.0/PreencheVaga.Dominio.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/Debug/netstandard2.0/PreencheVaga.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/Debug/netstandard2.0/PreencheVaga.Dominio.pdb" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/Debug/netstandard2.0/PreencheVaga.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/PreencheVaga.Dominio.csproj.nuget.cache" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/PreencheVaga.Dominio.csproj.nuget.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.Dominio.dll" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.Dominio.pdb" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.DominioTest.dll" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.DominioTest.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.dll" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/PreencheVaga.DominioTest.csproj.nuget.cache" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/PreencheVaga.DominioTest.csproj.nuget.cache" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/PesoDaTecnologiaParaVaga.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/Debug/netcoreapp2.0/PreencheVaga.UI.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/PesoDaTecnologiaParaVagaTeste.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/x64/Debug/netcoreapp2.0/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dado/bin/x64/Debug/netstandard2.0/PreencheVaga.Dado.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dado/bin/x64/Debug/netstandard2.0/PreencheVaga.Dado.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dado/bin/x64/Debug/netstandard2.0/PreencheVaga.Dado.pdb" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dado/bin/x64/Debug/netstandard2.0/PreencheVaga.Dado.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dado/bin/x64/Debug/netstandard2.0/PreencheVaga.Dominio.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dado/bin/x64/Debug/netstandard2.0/PreencheVaga.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dado/obj/x64/Debug/netstandard2.0/PreencheVaga.Dado.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dado/obj/x64/Debug/netstandard2.0/PreencheVaga.Dado.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dado/obj/x64/Debug/netstandard2.0/PreencheVaga.Dado.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dado/obj/x64/Debug/netstandard2.0/PreencheVaga.Dado.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dado/obj/x64/Debug/netstandard2.0/PreencheVaga.Dado.pdb" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dado/obj/x64/Debug/netstandard2.0/PreencheVaga.Dado.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/x64/Debug/netstandard2.0/Debug/netstandard2.0/PreencheVaga.Dominio.pdb" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/x64/Debug/netstandard2.0/Debug/netstandard2.0/PreencheVaga.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/x64/Debug/netstandard2.0/PreencheVaga.Dominio.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/x64/Debug/netstandard2.0/PreencheVaga.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.pdb" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dado.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dado.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dado.pdb" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dado.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dominio.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.UI.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/bin/x64/Debug/netcoreapp2.0/PreencheVaga.UI.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.dll" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.pdb" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dominio.dll" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/x64/Debug/netcoreapp2.0/PreencheVaga.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.dll" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.dll" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.PreencheVaga/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.PreencheVaga/.idea/contentModel.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.PreencheVaga/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.PreencheVaga/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.PreencheVaga/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.PreencheVaga/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PreencheVaga.sln" afterPath="$PROJECT_DIR$/PreencheVaga.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/RepositorioBase.cs" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/RepositorioBase.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dado/obj/x64/Debug/netstandard2.0/PreencheVaga.Dado.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dado/obj/x64/Debug/netstandard2.0/PreencheVaga.Dado.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/ProcessadorDeCandidatosParaVaga.cs" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/ProcessadorDeCandidatosParaVaga.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/Candidatos/Candidato.cs" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/Candidatos/Candidato.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/Tecnologias/Tecnologia.cs" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/Tecnologias/Tecnologia.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/Vagas/Vaga.cs" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/Vagas/Vaga.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/Debug/netstandard2.0/PreencheVaga.Dominio.deps.json" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/bin/Debug/netstandard2.0/PreencheVaga.Dominio.deps.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/Debug/netstandard2.0/PreencheVaga.Dominio.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/Debug/netstandard2.0/PreencheVaga.Dominio.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/PreencheVaga.Dominio.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/PreencheVaga.Dominio.csproj.nuget.g.props" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/PreencheVaga.Dominio.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/PreencheVaga.Dominio.csproj.nuget.g.targets" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/project.assets.json" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/project.assets.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/src/PreencheVaga.Dominio/obj/project.packagespec.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/Startup.cs" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/Startup.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/Views/Shared/_Layout.cshtml" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/Views/Shared/_Layout.cshtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/obj/x64/Debug/netcoreapp2.0/PreencheVaga.UI.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/app.config.js" afterPath="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/app.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ProcessadorDeCandidatosParaVagaTeste.cs" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ProcessadorDeCandidatosParaVagaTeste.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/Candidatos/CandidatoTeste.cs" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/Candidatos/CandidatoTeste.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/PreencheVaga.DominioTest.csproj" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/PreencheVaga.DominioTest.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/Tecnologias/TecnologiaTeste.cs" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/Tecnologias/TecnologiaTeste.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/Vagas/VagaTeste.cs" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/Vagas/VagaTeste.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.DominioTest.deps.json" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.DominioTest.deps.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.DominioTest.runtimeconfig.dev.json" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/bin/Debug/netcoreapp2.0/PreencheVaga.DominioTest.runtimeconfig.dev.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.Program.cs" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.Program.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/Debug/netcoreapp2.0/PreencheVaga.DominioTest.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/PreencheVaga.DominioTest.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/PreencheVaga.DominioTest.csproj.nuget.g.props" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/PreencheVaga.DominioTest.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/PreencheVaga.DominioTest.csproj.nuget.g.targets" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/project.assets.json" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/project.assets.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/project.packagespec.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.csproj.FileListAbsolute.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,88 +52,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CandidatoController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/CandidatoController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-              <folding>
-                <marker date="1506216855622" expanded="false" signature="6:212" ph="..." />
-                <marker date="1506216855622" expanded="true" signature="251:791" ph="{...}" />
-                <marker date="1506216855622" expanded="true" signature="332:789" ph="{...}" />
-                <marker date="1506216855622" expanded="true" signature="494:576" ph="{...}" />
-                <marker date="1506216855622" expanded="true" signature="665:783" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PesoDaTecnologiaParaVagaTeste.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/PesoDaTecnologiaParaVagaTeste.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="46" column="9" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-              <folding>
-                <marker date="1506218898746" expanded="true" signature="6:201" ph="..." />
-                <marker date="1506218898746" expanded="true" signature="253:1810" ph="{...}" />
-                <marker date="1506218898746" expanded="true" signature="318:1808" ph="{...}" />
-                <marker date="1506218898746" expanded="true" signature="383:766" ph="{...}" />
-                <marker date="1506218898746" expanded="true" signature="846:1133" ph="{...}" />
-                <marker date="1506218898746" expanded="true" signature="1224:1511" ph="{...}" />
-                <marker date="1506218898746" expanded="true" signature="1595:1802" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ProcessadorDeCandidatosParaVagaTeste.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ProcessadorDeCandidatosParaVagaTeste.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-              <folding>
-                <marker date="1506221536127" expanded="true" signature="6:304" ph="..." />
-                <marker date="1506221536127" expanded="true" signature="356:4465" ph="{...}" />
-                <marker date="1506221536127" expanded="true" signature="428:4463" ph="{...}" />
-                <marker date="1506221536127" expanded="true" signature="979:3224" ph="{...}" />
-                <marker date="1506221536127" expanded="true" signature="3325:3715" ph="{...}" />
-                <marker date="1506221536127" expanded="true" signature="3830:4457" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PesoDaTecnologiaParaVagaDto.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/PesoDaTecnologiaParaVagaDto.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding>
-                <marker date="1506221229700" expanded="true" signature="46:191" ph="{...}" />
-                <marker date="1506221229700" expanded="true" signature="93:189" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PreencheVaga.Dominio.csproj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/PreencheVaga.Dominio.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FiltroDeCandidatoParaVagaDto.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/FiltroDeCandidatoParaVagaDto.cs">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
-                <marker date="1506221536147" expanded="true" signature="81:266" ph="{...}" />
-                <marker date="1506221536147" expanded="true" signature="129:264" ph="{...}" />
+                <marker date="1506265656257" expanded="false" signature="6:304" ph="..." />
+                <marker date="1506265656257" expanded="true" signature="356:4613" ph="{...}" />
+                <marker date="1506265656257" expanded="true" signature="428:4611" ph="{...}" />
+                <marker date="1506265656257" expanded="true" signature="979:3385" ph="{...}" />
+                <marker date="1506265656257" expanded="true" signature="3486:3863" ph="{...}" />
+                <marker date="1506265656257" expanded="true" signature="3978:4605" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -142,15 +72,15 @@
       <file leaf-file-name="ProcessadorDeCandidatosParaVaga.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/ProcessadorDeCandidatosParaVaga.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="185">
+              <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
               <folding>
-                <marker date="1506221536107" expanded="true" signature="6:125" ph="..." />
-                <marker date="1506221536107" expanded="true" signature="173:1354" ph="{...}" />
-                <marker date="1506221536107" expanded="true" signature="224:1352" ph="{...}" />
-                <marker date="1506221536107" expanded="true" signature="404:482" ph="{...}" />
-                <marker date="1506221536107" expanded="true" signature="568:1346" ph="{...}" />
-                <marker date="1506221536107" expanded="true" signature="767:1240" ph="{...}" />
+                <marker date="1506265673857" expanded="false" signature="6:125" ph="..." />
+                <marker date="1506265673857" expanded="true" signature="173:1751" ph="{...}" />
+                <marker date="1506265673857" expanded="true" signature="224:1749" ph="{...}" />
+                <marker date="1506265673857" expanded="true" signature="607:781" ph="{...}" />
+                <marker date="1506265673857" expanded="true" signature="869:1743" ph="{...}" />
+                <marker date="1506265673857" expanded="true" signature="1162:1637" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -176,17 +106,20 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/PesoDaTecnologiaParaVagaTeste.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/Vagas/Vaga.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/RepositorioBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/Candidatos/Candidato.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/Tecnologias/Tecnologia.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/PreencherVagaController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/CandidatoRepositorio.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ProcessadorDeCandidatosParaVagaTeste.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/_Base/IRepositorioBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/Tecnologias/ArmazenadorDeTecnologiaTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ValidadorDeProcessoDeCandidatosParaVagaTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/ValidadorDeProcessoDeCandidatosParaVaga.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/TecnologiaController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/PesoDaTecnologiaParaVagaDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/FiltroDeCandidatoParaVagaDto.cs" root0="FORCE_HIGHLIGHTING" />
@@ -214,17 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PreencheVaga.Data/Class1.vb" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.Dado/Class1.cs" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.Dado/Context/ApplicationDbContext.cs" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/cadastroDeTecnologia/casdastro.html" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/cadastroDeTecnologia/cadastroDeTecnologiaCtrl.js" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/listagemDeTecnologia/listagem.html" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/listagemDeTecnologia/cadastroDeTecnologiaCtrl.js" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/listagemDeTecnologia/listagemDeTecnologiaCtrl.js" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/TecnologiaApi.cs" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.Dominio/_Base/IRepositorioBase.cs" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/RepositorioBase.cs" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/tecnologia/casdastro.html" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/tecnologia/listagemDeTecnologiaCtrl.js" />
@@ -243,10 +165,8 @@
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/_servicos/vaga.js" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/VagaController.cs" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.Dominio/Candidatos/ArmazenadorDeCandidato.cs" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/Startup.cs" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/vaga/listagem.html" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.Dominio/Vagas/Vaga.cs" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.Dominio/Candidatos/Candidato.cs" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/_servicos/tecnologiaSrv.js" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/_servicos/vagaSrv.js" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/listagem.html" />
@@ -254,15 +174,28 @@
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/CandidatoController.cs" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/_servicos/candidatoSrv.js" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/vagas.html" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/app.config.js" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/lib/angular/checklist-model.js" />
-        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/Views/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/app.module.js" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/cadastroDeCandidatoCtrl.js" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/cadastro.html" />
         <option value="$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/PesoDaTecnologiaParaVaga.cs" />
         <option value="$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/PesoDaTecnologiaParaVagaTeste.cs" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/BuscaDeCandidatoParaVagaDto.cs" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/preencherVaga/cadastroDeCandidatoCtrl.js" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/app.config.js" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/_servicos/preencherVagaSrv.js" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/PreencherVagaController.cs" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.Dominio/Candidatos/Candidato.cs" />
+        <option value="$PROJECT_DIR$/test/PreencheVaga.DominioTest/Candidatos/CandidatoTeste.cs" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/RepositorioBase.cs" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/CandidatoRepositorio.cs" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/preencherVaga/vagas.html" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/preencherVaga/processarCandidatosCtrl.js" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/preencherVaga/processarCandidatos.html" />
+        <option value="$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ValidadorDeProcessoDeCandidatosParaVagaTeste.cs" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/ValidadorDeProcessoDeCandidatosParaVaga.cs" />
+        <option value="$PROJECT_DIR$/src/PreencheVaga.UI/Startup.cs" />
         <option value="$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ProcessadorDeCandidatosParaVagaTeste.cs" />
         <option value="$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/ProcessadorDeCandidatosParaVaga.cs" />
       </list>
@@ -314,6 +247,25 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="PreencheVaga (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PreencheVaga.Dominio" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PreencheVaga (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PreencheVaga.Dominio" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BuscaCandidatos" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PreencheVaga (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PreencheVaga.UI" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PreencheVaga (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -321,6 +273,13 @@
               <item name="PreencheVaga (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="PreencheVaga.DominioTest" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PreencheVaga (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PreencheVaga.DominioTest" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BuscaCandidatos" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -442,12 +401,12 @@
       <workItem from="1506108878996" duration="2867000" />
       <workItem from="1506175161279" duration="16659000" />
       <workItem from="1506204146109" duration="6219000" />
-      <workItem from="1506216856859" duration="4677000" />
+      <workItem from="1506216856859" duration="11298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30675000" />
+    <option name="totallyTimeSpent" value="37296000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,21 +419,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-28" width="2560" height="1108" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.32467532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="73" y="-6" width="1847" height="1086" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.32467532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="73" y="-6" width="1847" height="1086" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20976563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3986014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3986014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -482,7 +443,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -520,82 +480,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/TecnologiaController.cs</url>
-          <line>30</line>
-          <properties startOffset="1061" endOffset="1100" documentPath="$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/TecnologiaController.cs" />
-          <option name="timeStamp" value="13" />
+          <url>file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ProcessadorDeCandidatosParaVagaTeste.cs</url>
+          <line>67</line>
+          <properties startOffset="3568" endOffset="3647" documentPath="$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ProcessadorDeCandidatosParaVagaTeste.cs" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/Vagas/VagaDto.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/Vagas/VagaTeste.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1992">
-          <caret line="87" column="52" lean-forward="false" selection-start-line="87" selection-start-column="52" selection-end-line="87" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/Vagas/ArmazenadorDeVagaTeste.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Data/Class1.vb" />
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dado/Class1.cs" />
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dado/Context/ApplicationDbContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/_Base/IRepositorioBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/RepositorioBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/Tecnologias/Tecnologia.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -635,13 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Filters/ExcecaoFilter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -687,28 +575,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/Vagas/Vaga.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/Candidatos/Candidato.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <marker date="1506205109959" expanded="false" signature="6:126" ph="..." />
-            <marker date="1506205109959" expanded="true" signature="209:1411" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,13 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/_servicos/candidatoSrv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/vaga/listagem.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -747,31 +610,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/vagas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/app.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/vaga/cadastro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="43" column="52" lean-forward="true" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -789,29 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/cadastroDeCandidatoCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/TecnologiaController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <marker date="1506202519757" expanded="false" signature="6:139" ph="..." />
-            <marker date="1506202519757" expanded="true" signature="178:1165" ph="{...}" />
-            <marker date="1506202519757" expanded="true" signature="267:1163" ph="{...}" />
-            <marker date="1506202519757" expanded="true" signature="564:708" ph="{...}" />
-            <marker date="1506202519757" expanded="true" signature="774:956" ph="{...}" />
-            <marker date="1506202519757" expanded="true" signature="1038:1157" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/Candidatos/CandidatoDto.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -820,14 +639,6 @@
             <marker date="1506179104386" expanded="true" signature="76:318" ph="{...}" />
             <marker date="1506179104386" expanded="true" signature="108:316" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/cadastro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,38 +670,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/PesoDaTecnologiaParaVagaTeste.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="46" column="9" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-          <folding>
-            <marker date="1506218898746" expanded="true" signature="6:201" ph="..." />
-            <marker date="1506218898746" expanded="true" signature="253:1810" ph="{...}" />
-            <marker date="1506218898746" expanded="true" signature="318:1808" ph="{...}" />
-            <marker date="1506218898746" expanded="true" signature="383:766" ph="{...}" />
-            <marker date="1506218898746" expanded="true" signature="846:1133" ph="{...}" />
-            <marker date="1506218898746" expanded="true" signature="1224:1511" ph="{...}" />
-            <marker date="1506218898746" expanded="true" signature="1595:1802" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/share/dotnet/sdk/2.0.0/Microsoft.Common.CurrentVersion.targets">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="860">
           <caret line="4221" column="4" lean-forward="false" selection-start-line="4221" selection-start-column="4" selection-end-line="4221" selection-end-column="4" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/PesoDaTecnologiaParaVagaDto.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding>
-            <marker date="1506221229700" expanded="true" signature="46:191" ph="{...}" />
-            <marker date="1506221229700" expanded="true" signature="93:189" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -902,25 +686,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ProcessadorDeCandidatosParaVagaTeste.cs">
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/_servicos/candidatoSrv.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="58" column="63" lean-forward="false" selection-start-line="58" selection-start-column="63" selection-end-line="58" selection-end-column="63" />
           <folding>
-            <marker date="1506221536127" expanded="true" signature="6:304" ph="..." />
-            <marker date="1506221536127" expanded="true" signature="356:4465" ph="{...}" />
-            <marker date="1506221536127" expanded="true" signature="428:4463" ph="{...}" />
-            <marker date="1506221536127" expanded="true" signature="979:3224" ph="{...}" />
-            <marker date="1506221536127" expanded="true" signature="3325:3715" ph="{...}" />
-            <marker date="1506221536127" expanded="true" signature="3830:4457" ph="{...}" />
+            <marker date="1506261413214" expanded="true" signature="16:2881" ph="&lt;html.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="23:439" ph="&lt;head.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="440:2873" ph="&lt;body.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="451:1494" ph="&lt;nav.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="512:1483" ph="&lt;div.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="548:1066" ph="&lt;div.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="592:936" ph="&lt;button.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="1079:1468" ph="&lt;div.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="1134:1449" ph="&lt;ul.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="1499:1665" ph="&lt;div.../&gt;" />
+            <marker date="1506261413214" expanded="true" signature="1581:1654" ph="&lt;footer.../&gt;" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/app.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/FiltroDeCandidatoParaVagaDto.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="168">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding>
             <marker date="1506221536147" expanded="true" signature="81:266" ph="{...}" />
             <marker date="1506221536147" expanded="true" signature="129:264" ph="{...}" />
@@ -928,17 +733,275 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/PesoDaTecnologiaParaVagaDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1506221229700" expanded="true" signature="46:191" ph="{...}" />
+            <marker date="1506221229700" expanded="true" signature="93:189" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/_servicos/preencherVagaSrv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/TecnologiaController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <marker date="1506202519757" expanded="false" signature="6:139" ph="..." />
+            <marker date="1506202519757" expanded="true" signature="178:1165" ph="{...}" />
+            <marker date="1506202519757" expanded="true" signature="267:1163" ph="{...}" />
+            <marker date="1506202519757" expanded="true" signature="564:708" ph="{...}" />
+            <marker date="1506202519757" expanded="true" signature="774:956" ph="{...}" />
+            <marker date="1506202519757" expanded="true" signature="1038:1157" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/Candidatos/CandidatoTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <marker date="1506262686829" expanded="false" signature="6:245" ph="..." />
+            <marker date="1506262686829" expanded="true" signature="292:4230" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="342:4228" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="593:875" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="946:1448" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="1526:1815" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="1900:2181" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="2273:2600" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="2692:3002" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="3118:3425" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="3526:3814" ph="{...}" />
+            <marker date="1506262686829" expanded="true" signature="3916:4222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Filters/ExcecaoFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1506203352957" expanded="false" signature="6:105" ph="..." />
+            <marker date="1506203352957" expanded="true" signature="140:737" ph="{...}" />
+            <marker date="1506203352957" expanded="true" signature="199:735" ph="{...}" />
+            <marker date="1506203352957" expanded="true" signature="272:720" ph="{...}" />
+            <marker date="1506203352957" expanded="true" signature="336:670" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/RepositorioBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <marker date="1506262909421" expanded="false" signature="6:119" ph="..." />
+            <marker date="1506262909421" expanded="true" signature="160:805" ph="{...}" />
+            <marker date="1506262909421" expanded="true" signature="239:803" ph="{...}" />
+            <marker date="1506262909421" expanded="true" signature="364:415" ph="{...}" />
+            <marker date="1506262909421" expanded="true" signature="468:571" ph="{...}" />
+            <marker date="1506262909421" expanded="true" signature="616:682" ph="{...}" />
+            <marker date="1506262909421" expanded="true" signature="733:797" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/Candidatos/Candidato.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <marker date="1506262565574" expanded="false" signature="6:126" ph="..." />
+            <marker date="1506262565574" expanded="true" signature="169:1428" ph="{...}" />
+            <marker date="1506262565574" expanded="true" signature="209:1426" ph="{...}" />
+            <marker date="1506262565574" expanded="true" signature="637:1420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dado/Repositorio/CandidatoRepositorio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1506262970103" expanded="true" signature="6:161" ph="..." />
+            <marker date="1506262970103" expanded="true" signature="202:569" ph="{...}" />
+            <marker date="1506262970103" expanded="true" signature="271:567" ph="{...}" />
+            <marker date="1506262970103" expanded="true" signature="359:379" ph="{...}" />
+            <marker date="1506262970103" expanded="true" signature="433:561" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/vagas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/cadastro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/preencherVaga/vagas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="10" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="28" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/candidato/cadastroDeCandidatoCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/preencherVaga/processarCandidatosCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/wwwroot/app/preencherVaga/processarCandidatos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/PesoDaTecnologiaParaVaga.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/PesoDaTecnologiaParaVagaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Controllers/PreencherVagaController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+          <folding>
+            <marker date="1506262390831" expanded="false" signature="6:75" ph="..." />
+            <marker date="1506262390831" expanded="true" signature="114:714" ph="{...}" />
+            <marker date="1506262390831" expanded="true" signature="203:712" ph="{...}" />
+            <marker date="1506262390831" expanded="true" signature="405:505" ph="{...}" />
+            <marker date="1506262390831" expanded="true" signature="610:706" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/ValidadorDeProcessoDeCandidatosParaVaga.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="99" lean-forward="false" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="99" />
+          <folding>
+            <marker date="1506265614176" expanded="true" signature="6:86" ph="..." />
+            <marker date="1506265614176" expanded="true" signature="134:1188" ph="{...}" />
+            <marker date="1506265614176" expanded="true" signature="198:268" ph="{...}" />
+            <marker date="1506265614176" expanded="true" signature="373:1186" ph="{...}" />
+            <marker date="1506265614176" expanded="true" signature="541:609" ph="{...}" />
+            <marker date="1506265614176" expanded="true" signature="674:1180" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreencheVaga.UI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="46" column="130" lean-forward="false" selection-start-line="46" selection-start-column="130" selection-end-line="46" selection-end-column="130" />
+          <folding>
+            <marker date="1506265639421" expanded="false" signature="6:490" ph="..." />
+            <marker date="1506265639421" expanded="true" signature="517:2955" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="544:2953" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="603:666" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="889:1960" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="1069:1151" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="1198:1347" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="2148:2947" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="2203:2465" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="2517:2594" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="2611:2695" ph="{...}" />
+            <marker date="1506265639421" expanded="true" signature="2764:2935" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ValidadorDeProcessoDeCandidatosParaVagaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="48" column="39" lean-forward="false" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+          <folding>
+            <marker date="1506265176742" expanded="true" signature="6:240" ph="..." />
+            <marker date="1506265176742" expanded="true" signature="292:2723" ph="{...}" />
+            <marker date="1506265176742" expanded="true" signature="372:2721" ph="{...}" />
+            <marker date="1506265176742" expanded="true" signature="600:949" ph="{...}" />
+            <marker date="1506265176742" expanded="true" signature="1017:1232" ph="{...}" />
+            <marker date="1506265176742" expanded="true" signature="1333:1597" ph="{...}" />
+            <marker date="1506265176742" expanded="true" signature="1694:2154" ph="{...}" />
+            <marker date="1506265176742" expanded="true" signature="2255:2715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/PreencheVaga.DominioTest/BuscaCandidatos/ProcessadorDeCandidatosParaVagaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <marker date="1506265656257" expanded="false" signature="6:304" ph="..." />
+            <marker date="1506265656257" expanded="true" signature="356:4613" ph="{...}" />
+            <marker date="1506265656257" expanded="true" signature="428:4611" ph="{...}" />
+            <marker date="1506265656257" expanded="true" signature="979:3385" ph="{...}" />
+            <marker date="1506265656257" expanded="true" signature="3486:3863" ph="{...}" />
+            <marker date="1506265656257" expanded="true" signature="3978:4605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PreencheVaga.Dominio/BuscaCandidatos/ProcessadorDeCandidatosParaVaga.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="185">
+          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
           <folding>
-            <marker date="1506221536107" expanded="true" signature="6:125" ph="..." />
-            <marker date="1506221536107" expanded="true" signature="173:1354" ph="{...}" />
-            <marker date="1506221536107" expanded="true" signature="224:1352" ph="{...}" />
-            <marker date="1506221536107" expanded="true" signature="404:482" ph="{...}" />
-            <marker date="1506221536107" expanded="true" signature="568:1346" ph="{...}" />
-            <marker date="1506221536107" expanded="true" signature="767:1240" ph="{...}" />
+            <marker date="1506265673857" expanded="false" signature="6:125" ph="..." />
+            <marker date="1506265673857" expanded="true" signature="173:1751" ph="{...}" />
+            <marker date="1506265673857" expanded="true" signature="224:1749" ph="{...}" />
+            <marker date="1506265673857" expanded="true" signature="607:781" ph="{...}" />
+            <marker date="1506265673857" expanded="true" signature="869:1743" ph="{...}" />
+            <marker date="1506265673857" expanded="true" signature="1162:1637" ph="{...}" />
           </folding>
         </state>
       </provider>

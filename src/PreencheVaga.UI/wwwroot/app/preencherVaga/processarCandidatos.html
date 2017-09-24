@@ -1,0 +1,48 @@
+<h2>Encontrar Candidatos</h2>
+<a href="#/preenchervaga/">Voltar</a>
+<div ng-controller="ProcessarCandidatosCtrl" >
+    <form class="form-horizontal">
+    
+        <h3>Inform o peso das tecnologias para vaga {{vaga.nome}}</h3>
+        
+        <div ng-repeat="item in tecnologias" class="form-group">
+            <label class="col-md-2 control-label" >{{item.nome}}</label>
+            <div class="col-md-2">
+                <input type="text" class="form-control" ng-model="item.peso" >
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-2">
+                <button class="btn btn-success" ng-click="processar();">Processar</button>
+            </div>
+        </div>
+    </form>
+    
+    <div ng-show="candidatos != null">
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table table-hover">
+                    <thead>
+                    <tr>
+                        <th>Candidato</th>
+                        <th>Pontuação</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr ng-repeat="item in candidatos">
+                        <td>
+                            {{item.nomeDoCandidato}}
+                        </td>
+                        <td>
+                            {{item.pontuacao}}
+                        </td>
+                        <td>
+                            {{item.descricao}}
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

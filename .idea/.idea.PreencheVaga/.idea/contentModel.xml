@@ -16,6 +16,7 @@
           </e>
           <e p="PreencheVaga.Dado.csproj" t="IncludeRecursive" />
           <e p="Repositorio" t="Include">
+            <e p="CandidatoRepositorio.cs" t="Include" />
             <e p="RepositorioBase.cs" t="Include" />
           </e>
           <e p="bin" t="ExcludeRecursive" />
@@ -33,9 +34,9 @@
           <e p="BuscaCandidatos" t="Include">
             <e p="CandidatoProcessado.cs" t="Include" />
             <e p="FiltroDeCandidatoParaVagaDto.cs" t="Include" />
-            <e p="PesoDaTecnologiaParaVaga.cs" t="Include" />
             <e p="PesoDaTecnologiaParaVagaDto.cs" t="Include" />
             <e p="ProcessadorDeCandidatosParaVaga.cs" t="Include" />
+            <e p="ValidadorDeProcessoDeCandidatosParaVaga.cs" t="Include" />
           </e>
           <e p="Candidatos" t="Include">
             <e p="ArmazenadorDeCandidato.cs" t="Include" />
@@ -73,6 +74,7 @@
           <e p="Controllers" t="Include">
             <e p="CandidatoController.cs" t="Include" />
             <e p="HomeController.cs" t="Include" />
+            <e p="PreencherVagaController.cs" t="Include" />
             <e p="TecnologiaController.cs" t="Include" />
             <e p="VagaController.cs" t="Include" />
           </e>
@@ -113,6 +115,7 @@
             <e p="app" t="Include">
               <e p="_servicos" t="Include">
                 <e p="candidatoSrv.js" t="Include" />
+                <e p="preencherVagaSrv.js" t="Include" />
                 <e p="tecnologiaSrv.js" t="Include" />
                 <e p="vagaSrv.js" t="Include" />
               </e>
@@ -121,6 +124,11 @@
               <e p="candidato" t="Include">
                 <e p="cadastro.html" t="Include" />
                 <e p="cadastroDeCandidatoCtrl.js" t="Include" />
+                <e p="vagas.html" t="Include" />
+              </e>
+              <e p="preencherVaga" t="Include">
+                <e p="processarCandidatos.html" t="Include" />
+                <e p="processarCandidatosCtrl.js" t="Include" />
                 <e p="vagas.html" t="Include" />
               </e>
               <e p="tecnologia" t="Include">
@@ -250,8 +258,8 @@
       <e p="test" t="Include">
         <e p="PreencheVaga.DominioTest" t="IncludeRecursive">
           <e p="BuscaCandidatos" t="Include">
-            <e p="PesoDaTecnologiaParaVagaTeste.cs" t="Include" />
             <e p="ProcessadorDeCandidatosParaVagaTeste.cs" t="Include" />
+            <e p="ValidadorDeProcessoDeCandidatosParaVagaTeste.cs" t="Include" />
           </e>
           <e p="Candidatos" t="Include">
             <e p="ArmazenadorDeCandidatoTeste.cs" t="Include" />

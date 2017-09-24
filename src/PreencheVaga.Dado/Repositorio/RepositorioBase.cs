@@ -7,26 +7,26 @@ namespace PreencheVaga.Dado.Repositorio
 {
     public class RepositorioBase<T> : IRepositorioBase<T> where T : Entidade
     {
-        private readonly ApplicationDbContext _context;
+        protected readonly ApplicationDbContext Context;
 
         public RepositorioBase(ApplicationDbContext context)
         {
-            _context = context;
+            Context = context;
         }
         
-        public T ObterPorId(int id)
+        public virtual T ObterPorId(int id)
         {
-            return _context.Set<T>().FirstOrDefault(entidade => entidade.Id == id);
+            return Context.Set<T>().FirstOrDefault(entidade => entidade.Id == id);
         }
 
-        public List<T> ObterTodos()
+        public virtual List<T> ObterTodos()
         {
-            return _context.Set<T>().ToList();
+            return Context.Set<T>().ToList();
         }
 
-        public void Adicionar(T entidade)
+        public virtual void Adicionar(T entidade)
         {
-            _context.Set<T>().Add(entidade);
+            Context.Set<T>().Add(entidade);
         }
     }
 }

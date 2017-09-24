@@ -48,8 +48,10 @@ namespace PreencheVaga.DominioTest.BuscaCandidatos
             _candidatoRepositorio
                 .Setup(repositorio => repositorio.ObterTodos())
                 .Returns(new List<Candidato> { _candidadoVencedor, _candidadoSegundoColocado, _candidadoTerceiroColocado});
+
+            var validadorDeProcessoDeCandidatosParaVaga = new Mock<IValidadorDeProcessoDeCandidatosParaVaga>();
             
-            _processador = new ProcessadorDeCandidatosParaVaga(_candidatoRepositorio.Object);
+            _processador = new ProcessadorDeCandidatosParaVaga(_candidatoRepositorio.Object, validadorDeProcessoDeCandidatosParaVaga.Object);
             
             var pesoDaTecnologiaUm = new PesoDaTecnologiaParaVagaDto { TecnologiaId = _tecnologiaUm.Id, Peso = 3};
             var pesoDaTecnologiaDois = new PesoDaTecnologiaParaVagaDto { TecnologiaId = _tecnologiaDois.Id, Peso = 2};
@@ -62,7 +64,6 @@ namespace PreencheVaga.DominioTest.BuscaCandidatos
         public void DeveProcessarCandidatosParaVagaComBaseNoPesoDaTecnologia()
         {
             const int pontuacaoEsperadaParaOVencedor = 7;
-            
 
             var candidatosProcessados = _processador.Processar(_filtroDeCandidatoParaVaga);
             

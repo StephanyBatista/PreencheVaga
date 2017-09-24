@@ -11,4 +11,4 @@
 /home/stephany/Documents/Source/PreencheVaga/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.AssemblyInfo.cs
 /home/stephany/Documents/Source/PreencheVaga/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.dll
 /home/stephany/Documents/Source/PreencheVaga/test/PreencheVaga.DominioTest/obj/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb
-/home/stephany/Documents/Source/PreencheVaga/test/PreencheVaga.DominioTest/bin/x64/Debug/netcoreapp2.0/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb
+/home/stephany/Documents/Source/PreencheVaga/test/PreencheVaga.DominioTest/bin/x64/Debug/netcoreapp2.0/PreencheVaga.DominioTest.pdb
