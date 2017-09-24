@@ -1,0 +1,10 @@
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/bin/Debug/netstandard2.0/PreencheVaga.Dado.deps.json
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/bin/Debug/netstandard2.0/PreencheVaga.Dado.dll
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/bin/Debug/netstandard2.0/PreencheVaga.Dado.pdb
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/bin/Debug/netstandard2.0/PreencheVaga.Dominio.dll
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/bin/Debug/netstandard2.0/PreencheVaga.Dominio.pdb
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/obj/Debug/netstandard2.0/PreencheVaga.Dado.csproj.CoreCompileInputs.cache
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/obj/Debug/netstandard2.0/PreencheVaga.Dado.AssemblyInfoInputs.cache
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/obj/Debug/netstandard2.0/PreencheVaga.Dado.AssemblyInfo.cs
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/obj/Debug/netstandard2.0/PreencheVaga.Dado.dll
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/obj/Debug/netstandard2.0/PreencheVaga.Dado.pdb

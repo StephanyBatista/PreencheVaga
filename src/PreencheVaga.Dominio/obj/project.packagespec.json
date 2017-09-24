@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\source\\PreencheVaga\\src\\PreencheVaga.Dominio\\PreencheVaga.Dominio.csproj",
+    "projectUniqueName": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/PreencheVaga.Dominio.csproj",
     "projectName": "PreencheVaga.Dominio",
-    "projectPath": "C:\\source\\PreencheVaga\\src\\PreencheVaga.Dominio\\PreencheVaga.Dominio.csproj",
-    "outputPath": "C:\\source\\PreencheVaga\\src\\PreencheVaga.Dominio\\obj\\",
+    "projectPath": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/PreencheVaga.Dominio.csproj",
+    "outputPath": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.0"

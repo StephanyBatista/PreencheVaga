@@ -1,6 +1,6 @@
 using System;
 
-namespace PreencheVaga.Dominio
+namespace PreencheVaga.Dominio._Base
 {
     public class ExcecaoDeDominio : Exception
     {

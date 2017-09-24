@@ -1,0 +1,41 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/PreencheVaga.UI.csproj",
+    "projectName": "PreencheVaga.UI",
+    "projectPath": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/PreencheVaga.UI.csproj",
+    "outputPath": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.UI/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/PreencheVaga.Dado.csproj": {
+            "projectPath": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dado/PreencheVaga.Dado.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

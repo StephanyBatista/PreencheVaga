@@ -1,0 +1,26 @@
+<div ng-controller="ListagemDeTecnologiaCtrl">
+    <h2>Todas Tecnologias</h2>
+    <a href="#/tecnologia/cadastro/">Nova Tecnologia</a>
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-hover">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="item in modelos">
+                        <td>
+                            {{item.id}}
+                        </td>
+                        <td>
+                            <a href="#/tecnologia/cadastro/{{item.id}}">{{item.nome}}</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

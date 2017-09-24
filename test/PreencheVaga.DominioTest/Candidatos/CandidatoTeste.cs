@@ -4,6 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PreencheVaga.Dominio;
 using PreencheVaga.Dominio.Candidatos;
 using PreencheVaga.Dominio.Tecnologias;
+using PreencheVaga.Dominio._Base;
 
 namespace PreencheVaga.DominioTest.Candidatos
 {

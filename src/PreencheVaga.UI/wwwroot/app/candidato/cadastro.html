@@ -1,0 +1,40 @@
+<h2>Casdastro de Vaga</h2>
+<a href="#/candidato/">Voltar</a>
+
+<form ng-controller="CadastroDeCandidatoCtrl" class="form-horizontal">
+
+    <h3>Candidato para vaga {{vaga.nome}}</h3>
+    
+    <input type="hidden" ng-model="modelo.Id">
+    <div class="form-group">
+        <label class="col-md-2 control-label" >Nome</label>
+        <div class="col-md-2">
+            <input type="text" class="form-control" ng-model="modelo.nome" >
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label" >Idade</label>
+        <div class="col-md-2">
+            <input type="text" class="form-control" ng-model="modelo.idade" >
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label" >Pretensão Salarial</label>
+        <div class="col-md-2">
+            <input type="text" class="form-control" ng-model="modelo.pretensaoSalarial" >
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label" >Tecnologias que conhece</label>
+        <div class="col-md-2">
+            <label ng-repeat="item in tecnologias">
+                <input type="checkbox" ng-model="item.checked" >{{item.nome}}    
+            </label>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-2">
+            <button class="btn btn-success" ng-click="salvar();">Salvar</button>
+        </div>
+    </div>
+</form>

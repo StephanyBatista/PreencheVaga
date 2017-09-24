@@ -1,0 +1,8 @@
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/bin/x64/Debug/netstandard2.0/PreencheVaga.Dominio.deps.json
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/bin/x64/Debug/netstandard2.0/PreencheVaga.Dominio.dll
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/bin/x64/Debug/netstandard2.0/Debug/netstandard2.0/PreencheVaga.Dominio.pdb
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.csproj.CoreCompileInputs.cache
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.AssemblyInfoInputs.cache
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.AssemblyInfo.cs
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.dll
+/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/obj/x64/Debug/netstandard2.0/PreencheVaga.Dominio.pdb

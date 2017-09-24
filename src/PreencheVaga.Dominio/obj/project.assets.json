@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "ZQg6trkPE/758oEGfWre7Co0rAzLMIgr0f597YoiRZi3GratMNwEMr0JT6rgktSsp2tTgKdTRVPJghoRJuwKBw==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -177,26 +177,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\henriquebatista\\.nuget\\packages\\": {}
+    "/home/stephany/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\PreencheVaga\\src\\PreencheVaga.Dominio\\PreencheVaga.Dominio.csproj",
+      "projectUniqueName": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/PreencheVaga.Dominio.csproj",
       "projectName": "PreencheVaga.Dominio",
-      "projectPath": "C:\\source\\PreencheVaga\\src\\PreencheVaga.Dominio\\PreencheVaga.Dominio.csproj",
-      "packagesPath": "C:\\Users\\henriquebatista\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\PreencheVaga\\src\\PreencheVaga.Dominio\\obj\\",
+      "projectPath": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/PreencheVaga.Dominio.csproj",
+      "packagesPath": "/home/stephany/.nuget/packages/",
+      "outputPath": "/home/stephany/Documents/Source/PreencheVaga/src/PreencheVaga.Dominio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\henriquebatista\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/stephany/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

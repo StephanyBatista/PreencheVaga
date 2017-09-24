@@ -1,11 +1,19 @@
 using System.Collections.Generic;
 using System.Linq;
 using PreencheVaga.Dominio.Tecnologias;
+using PreencheVaga.Dominio._Base;
 
 namespace PreencheVaga.Dominio.Candidatos
 {
-    public class Candidato
+    public class Candidato : Entidade
     {
+        public string Nome { get; private set; }
+        public int Idade { get; private set; }
+        public decimal PretensaoSalarial { get; private set; }
+        public List<Tecnologia> TecnologiasQueConhece { get; private set; }
+        
+        public Candidato() {}        
+        
         public Candidato(string nome, int idade, decimal pretensaoSalarial, List<Tecnologia> tecnologiasQueConhece)
         {
             ExcecaoDeDominio.Quando(string.IsNullOrEmpty(nome), "Nome é obrigatório");
@@ -19,10 +27,5 @@ namespace PreencheVaga.Dominio.Candidatos
             PretensaoSalarial = pretensaoSalarial;
             TecnologiasQueConhece = tecnologiasQueConhece;
         }
-
-        public string Nome { get; private set; }
-        public int Idade { get; private set; }
-        public decimal PretensaoSalarial { get; private set; }
-        public List<Tecnologia> TecnologiasQueConhece { get; private set; }
     }
 }

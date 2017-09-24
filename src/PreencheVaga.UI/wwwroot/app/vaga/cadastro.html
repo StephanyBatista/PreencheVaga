@@ -1,0 +1,22 @@
+<h2>Casdastro de Vaga</h2>
+<a href="#/vaga/">Voltar</a>
+<form ng-controller="CadastroDeVagaCtrl" class="form-horizontal">
+    <input type="hidden" ng-model="modelo.Id">
+    <div class="form-group">
+        <label class="col-md-1 control-label" >Nome</label>
+        <div class="col-md-2">
+            <input type="text" class="form-control" ng-model="modelo.nome" >
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-1 control-label" >Descrição</label>
+        <div class="col-md-2">
+            <input type="text" class="form-control" ng-model="modelo.descricao" >
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-2">
+            <button class="btn btn-success" ng-click="salvar();">Salvar</button>
+        </div>
+    </div>
+</form>

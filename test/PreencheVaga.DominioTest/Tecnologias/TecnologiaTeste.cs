@@ -1,6 +1,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Nosbor.FluentBuilder.Lib;
 using PreencheVaga.Dominio;
 using PreencheVaga.Dominio.Tecnologias;
+using PreencheVaga.Dominio._Base;
 
 namespace PreencheVaga.DominioTest.Tecnologias
 {
@@ -14,6 +16,17 @@ namespace PreencheVaga.DominioTest.Tecnologias
             
             var tecnologia = new Tecnologia(nomeEsperado);
 
+            Assert.AreEqual(nomeEsperado, tecnologia.Nome);
+        }
+
+        [TestMethod]
+        public void DevePoderAtualizarNome()
+        {
+            const string nomeEsperado = "Node Js";
+            var tecnologia = FluentBuilder<Tecnologia>.New().Build();
+
+            tecnologia.AlterarNome(nomeEsperado);
+            
             Assert.AreEqual(nomeEsperado, tecnologia.Nome);
         }
 
